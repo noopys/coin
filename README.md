@@ -1,2 +1,2 @@
-# coin
+# Cryptocurrency 😎
 what is going on
