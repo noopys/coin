@@ -1,5 +1,2 @@
 # Cryptocurrency 😎
-what 
-is 
-going 
-on
+coin
